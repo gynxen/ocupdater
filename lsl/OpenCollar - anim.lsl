@@ -1,6 +1,10 @@
 //OpenCollar - anim - 3.520
 //Licensed under the GPLv2, with the additional requirement that these scripts remain "full perms" in Second Life.  See "OpenCollar License" for details.
 
+// xg to-do:
+// * rename poses (ie: run the anim "-=SC=- Low Kneel" by typing "xgkneel")
+// + check changing couples anims (ie: use the ones from Hug&Kisses2)
+
 //needs to handle anim requests from sister scripts as well
 //this script as essentially two layers
 //lower layer: coordinate animation requests that come in on link messages.  keep a list of playing anims disable AO when needed
